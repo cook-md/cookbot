@@ -4,6 +4,7 @@ AI-powered meal planning assistant using [Cooklang](https://cooklang.org/) forma
 
 <img width="600" height="497" alt="cookbot" src="https://github.com/user-attachments/assets/bb503556-4fbf-49c1-8ef9-723a56f8e570" />
 
+More info about [Cookbot](https://cook.md/help/cookbot).
 
 ## Installation
 
