@@ -14,11 +14,6 @@ More info about [Cookbot](https://cook.md/help/cookbot).
 curl -LsSf https://github.com/cook-md/cookbot/releases/latest/download/cookbot-installer.sh | sh
 ```
 
-### Windows (PowerShell)
-
-```powershell
-irm https://github.com/cook-md/cookbot/releases/latest/download/cookbot-installer.ps1 | iex
-```
 
 ### Homebrew (macOS / Linux)
 
